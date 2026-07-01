@@ -176,7 +176,7 @@ Through this project, I strengthened my ability to:
 - Identify common attack surfaces
 - Understand defensive security controls
 - Apply foundational security principles
-- Think systematically about how modern systems communicate and where trust can fail
+- Think systematically about how modern systems communicate and where trust can fail.
 
 ---
 
