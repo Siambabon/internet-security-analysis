@@ -1,4 +1,5 @@
 # 🌐 Internet Security Flow Analysis
+
 ## 🚧 Project Status
 
 **Status:** ✅ Completed
@@ -214,4 +215,6 @@ Currently developing practical cybersecurity skills through hands-on labs, techn
 
 ---
 
-> **Disclaimer:** This project is intended for educational purposes and demonstrates foundational cybersecurity concepts. It does not include offensive exploitation techniques or instructions for unauthorized access.
+## ⚠️ Disclaimer
+
+This project is intended for educational purposes and demonstrates foundational cybersecurity concepts. It does not include offensive exploitation techniques or instructions for unauthorized access.
