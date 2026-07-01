@@ -1,12 +1,12 @@
 # 🌐 Internet Security Flow Analysis
 
-> A cybersecurity project exploring how internet communication works, where security risks emerge, and how defensive controls protect modern systems.
+>A foundational cybersecurity project that analyzes internet communication, identifies attack surfaces, and demonstrates defensive security concepts through a real-world systems perspective.
 
 ---
 
 ## 📖 Overview
 
-Understanding cybersecurity starts with understanding how systems communicate.
+Effective cybersecurity begins with understanding how modern systems communicate, where trust exists, and how that trust can be exploited or protected.
 
 This project examines the journey of an internet request—from the moment a user enters a website address until the server returns a response—and identifies the security risks and defensive controls involved at each stage.
 
@@ -68,6 +68,7 @@ Each stage introduces a different trust relationship and therefore a different s
 | Services | Open Ports | Increased attack surface |
 | Application | Injection Attacks | Manipulation of application logic |
 | User | Phishing | Credential theft and account compromise |
+| Risk | Impact | Likelihood |
 
 ---
 
