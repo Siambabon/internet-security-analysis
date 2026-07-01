@@ -1,10 +1,9 @@
 # 🌐 Internet Security Flow Analysis
+## ✅ Project Status
 
-## 🚧 Project Status
+Status: Completed
 
-**Status:** ✅ Completed
-
-**Last Updated:** July 2026
+Last Updated: July 2026
 
 >A foundational cybersecurity project that analyzes internet communication, identifies attack surfaces, and demonstrates defensive security concepts through a real-world systems perspective.
 
@@ -178,7 +177,7 @@ This project will continue evolving with practical cybersecurity topics, includi
 
 ## 🎓 Learning Outcomes
 
-Through this project, I strengthened my ability to:
+Through completing this project, I developed a stronger understanding of:
 
 - Explain internet communication from a cybersecurity perspective
 - Identify common attack surfaces
@@ -201,7 +200,7 @@ Through this project, I strengthened my ability to:
 
 Aspiring Cybersecurity Analyst with a strong interest in **Security Operations (SOC)**, **Microsoft Azure**, and **Cloud Security**.
 
-Currently developing practical cybersecurity skills through hands-on labs, technical documentation, and security-focused projects while building a professional cybersecurity portfolio.
+Currently developing practical cybersecurity skills through hands-on labs, technical documentation, and security-focused projects while building a professional cybersecurity portfolio focused on Security Operations (SOC) and Cloud Security.
 
 ### 🌱 Learning Platforms
 
