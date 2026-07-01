@@ -10,6 +10,32 @@ Last Updated: July 2026
 
 ---
 
+## 🖼️ Project Architecture
+
+<p align="center">
+  <img src="./internet-security-flow-analysis.png" alt="Internet Security Flow Analysis Architecture" width="95%">
+</p>
+
+<p align="center">
+  <em>Figure 1. High-level internet communication workflow highlighting trust relationships, attack surfaces, and defensive security controls.</em>
+</p>
+
+---
+
+## 📑 Table of Contents
+
+- [Overview](#-overview)
+- [Project Objectives](#-project-objectives)
+- [Internet Communication Workflow](#-internet-communication-workflow)
+- [Security Risks](#-security-risks-across-the-workflow)
+- [Defensive Security Controls](#️-defensive-security-controls)
+- [Security Principles](#-security-principles)
+- [Real-World Scenario](#-real-world-scenario)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Technologies & Concepts](#️-technologies--concepts)
+- [Future Improvements](#-future-improvements)
+- [Learning Outcomes](#-learning-outcomes)
+
 ## 📖 Overview
 
 Effective cybersecurity begins with understanding how modern systems communicate, where trust exists, and how that trust can be exploited or protected.
@@ -139,40 +165,38 @@ An attacker manipulates DNS resolution, redirecting the user to a fraudulent web
 
 ---
 
-## 🛠️ Technologies & Concepts
+## 🛠️ Technologies
 
 - TCP/IP
 - DNS
 - HTTP
 - HTTPS
 - TLS
-- Firewall
-- VPN
-- Markdown
 - Git
 - GitHub
+- Markdown
+
+## 🔒 Security Concepts
+
+- Firewall
+- VPN
+- CIA Triad
+- Threat Analysis
+- Risk Assessment
 
 ---
 
 ## 📂 Project Resources
 
-- 📄 Detailed Project Report (PDF)
+- 📄 [Detailed Project Report (PDF)](./Internet-Security-Flow-Analysis-Siam.pdf.pdf)
 - 📘 Technical Documentation (README)
 ---
 
-## 🚀 Future Improvements
+## 🚀 Future Development
 
-This project will continue evolving with practical cybersecurity topics, including:
+This project will continue to evolve as I expand my cybersecurity knowledge and gain hands-on experience through practical labs and real-world projects.
 
-- Packet Capture & Analysis (Wireshark)
-- Windows Event Logs
-- Security Monitoring (SOC)
-- Microsoft Azure Networking
-- Microsoft Defender
-- Microsoft Sentinel
-- Identity & Access Management (IAM)
-- Cloud Security Concepts
-
+Future updates may include additional analysis, diagrams, security concepts, and technical improvements based on my learning journey.
 ---
 
 ## 🎓 Learning Outcomes
@@ -202,15 +226,14 @@ Aspiring Cybersecurity Analyst with a strong interest in **Security Operations (
 
 Currently developing practical cybersecurity skills through hands-on labs, technical documentation, and security-focused projects while building a professional cybersecurity portfolio aligned with Security Operations (SOC), Microsoft Azure, and Cloud Security.
 
-### 🌱 Learning Platforms
+### 🌱 Hands-on Learning
 
 - TryHackMe
 - Microsoft Learn
-- GitHub
 
 📧 **Email:** siambabon.it@gmail.com
 
-🔗 **LinkedIn:** https://linkedin.com/in/siambabon
+🔗 LinkedIn: https://www.linkedin.com/in/siambabon
 
 ---
 
