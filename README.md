@@ -1,4 +1,9 @@
 # 🌐 Internet Security Flow Analysis
+## 🚧 Project Status
+
+**Status:** ✅ Completed
+
+**Last Updated:** July 2026
 
 >A foundational cybersecurity project that analyzes internet communication, identifies attack surfaces, and demonstrates defensive security concepts through a real-world systems perspective.
 
@@ -60,15 +65,14 @@ Each stage introduces a different trust relationship and therefore a different s
 
 ## ⚠️ Security Risks Across the Workflow
 
-| Stage | Potential Risk | Security Impact |
-|--------|----------------|-----------------|
-| DNS | DNS Spoofing | Redirects users to malicious destinations |
-| Network | Man-in-the-Middle (MITM) | Intercepts or modifies data in transit |
-| Web Server | Misconfiguration | Unauthorized access |
-| Services | Open Ports | Increased attack surface |
-| Application | Injection Attacks | Manipulation of application logic |
-| User | Phishing | Credential theft and account compromise |
-| Risk | Impact | Likelihood |
+| Stage | Potential Risk | Security Impact | Impact | Likelihood |
+|--------|----------------|-----------------|:------:|:----------:|
+| DNS | DNS Spoofing | Redirects users to malicious destinations | High | Medium |
+| Network | Man-in-the-Middle (MITM) | Intercepts or modifies data in transit | High | Medium |
+| Web Server | Misconfiguration | Unauthorized access | High | Medium |
+| Services | Open Ports | Increased attack surface | Medium | High |
+| Application | Injection Attacks | Manipulation of application logic | High | Medium |
+| User | Phishing | Credential theft and account compromise | High | High |
 
 ---
 
@@ -123,15 +127,14 @@ An attacker manipulates DNS resolution, redirecting the user to a fraudulent web
 
 ## 📚 Skills Demonstrated
 
-- Networking Fundamentals
-- Internet Communication
-- DNS Resolution
-- HTTP / HTTPS
-- Security Risk Analysis
-- Attack Surface Identification
-- Defensive Security Concepts
-- Security Documentation
+- Networking
+- Threat Analysis
+- Risk Assessment
+- Security Fundamentals
+- Technical Documentation
 - Analytical Thinking
+- System Thinking
+- Problem Solving
 
 ---
 
@@ -139,13 +142,14 @@ An attacker manipulates DNS resolution, redirecting the user to a fraudulent web
 
 - TCP/IP
 - DNS
-- HTTP / HTTPS
+- HTTP
+- HTTPS
+- TLS
 - Firewall
 - VPN
-- TLS
-- Linux Fundamentals
-- Windows Fundamentals
-- CIA Triad
+- Markdown
+- Git
+- GitHub
 
 ---
 
@@ -181,6 +185,13 @@ Through this project, I strengthened my ability to:
 - Apply foundational security principles
 - Think systematically about how modern systems communicate and where trust can fail.
 
+## 📚 References
+
+- Microsoft Learn
+- TryHackMe
+- OWASP Foundation
+- NIST Cybersecurity Framework
+- Cloudflare Learning Center
 ---
 
 ## 👨‍💻 About the Author
@@ -189,7 +200,13 @@ Through this project, I strengthened my ability to:
 
 Aspiring Cybersecurity Analyst with a strong interest in **Security Operations (SOC)**, **Microsoft Azure**, and **Cloud Security**.
 
-Currently building hands-on cybersecurity skills through practical labs, technical projects, and continuous learning.
+Currently developing practical cybersecurity skills through hands-on labs, technical documentation, and security-focused projects while building a professional cybersecurity portfolio.
+
+### 🌱 Learning Platforms
+
+- TryHackMe
+- Microsoft Learn
+- GitHub
 
 📧 **Email:** siambabon.it@gmail.com
 
