@@ -1,4 +1,5 @@
 # 🌐 Internet Security Flow Analysis
+> **Project Goal:** Understand how internet communication works, identify common attack surfaces, and explore the defensive security controls that protect modern systems.
 ## ✅ Project Status
 
 Status: Completed
@@ -155,10 +156,8 @@ An attacker manipulates DNS resolution, redirecting the user to a fraudulent web
 
 ## 📂 Project Resources
 
-📄 **Detailed Project Report**
-
-➡️ [Internet Security Flow Analysis (PDF)](./Internet-Security-Flow-Analysis-Siam.pdf.pdf)
-
+- 📄 Detailed Project Report (PDF)
+- 📘 Technical Documentation (README)
 ---
 
 ## 🚀 Future Improvements
@@ -168,8 +167,9 @@ This project will continue evolving with practical cybersecurity topics, includi
 - Packet Capture & Analysis (Wireshark)
 - Windows Event Logs
 - Security Monitoring (SOC)
-- Microsoft Sentinel
 - Microsoft Azure Networking
+- Microsoft Defender
+- Microsoft Sentinel
 - Identity & Access Management (IAM)
 - Cloud Security Concepts
 
@@ -179,11 +179,11 @@ This project will continue evolving with practical cybersecurity topics, includi
 
 Through completing this project, I developed a stronger understanding of:
 
-- Explain internet communication from a cybersecurity perspective
-- Identify common attack surfaces
-- Understand defensive security controls
-- Apply foundational security principles
-- Think systematically about how modern systems communicate and where trust can fail.
+- Internet communication from a cybersecurity perspective
+- Common attack surfaces across modern systems
+- Defensive security controls and their practical applications
+- Foundational cybersecurity principles
+- System thinking and trust relationships within network communication
 
 ## 📚 References
 
@@ -200,7 +200,7 @@ Through completing this project, I developed a stronger understanding of:
 
 Aspiring Cybersecurity Analyst with a strong interest in **Security Operations (SOC)**, **Microsoft Azure**, and **Cloud Security**.
 
-Currently developing practical cybersecurity skills through hands-on labs, technical documentation, and security-focused projects while building a professional cybersecurity portfolio focused on Security Operations (SOC) and Cloud Security.
+Currently developing practical cybersecurity skills through hands-on labs, technical documentation, and security-focused projects while building a professional cybersecurity portfolio aligned with Security Operations (SOC), Microsoft Azure, and Cloud Security.
 
 ### 🌱 Learning Platforms
 
