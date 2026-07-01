@@ -52,6 +52,8 @@ Database
  │
  ▼
 Response
+
+Each stage introduces a different trust relationship and therefore a different security risk.
 ```
 
 ---
