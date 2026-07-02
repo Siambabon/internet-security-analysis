@@ -15,13 +15,14 @@ Last Updated: July 2026
 ## 🖼️ Project Architecture
 
 <p align="center">
-  <img src="./internet-security-flow-analysis.png" alt="Internet Security Flow Analysis Architecture" width="95%">
+  <img src="./internet-security-flow-analysis.png"
+       alt="Internet Security Flow Analysis Architecture"
+       width="95%">
 </p>
 
 <p align="center">
   <em>Figure 1. High-level internet communication workflow highlighting trust relationships, attack surfaces, and defensive security controls.</em>
 </p>
-
 ---
 
 ## 📑 Table of Contents
