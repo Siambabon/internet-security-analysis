@@ -189,9 +189,10 @@ An attacker manipulates DNS resolution, redirecting the user to a fraudulent web
 
 ---
 
+
 ## 📂 Project Resources
 
-- 📄 [Detailed Project Report (PDF)](./Internet-Security-Flow-Analysis-Siam.pdf.pdf)
+- 📄 [Detailed Technical Report (PDF)](./Internet-Security-Flow-Analysis.pdf)
 - 📘 Technical Documentation (README)
 ---
 
