@@ -1,8 +1,10 @@
-# 🌐 Internet Security Flow Analysis
+# 🌐 Internet Communication Security Analysis
 > **Project Goal:** Understand how internet communication works, identify common attack surfaces, and explore the defensive security controls that protect modern systems.
 ## ✅ Project Status
 
 Status: Completed
+
+Version: 2.0
 
 Last Updated: July 2026
 
@@ -201,7 +203,7 @@ Future updates may include additional analysis, diagrams, security concepts, and
 
 ## 🎓 Learning Outcomes
 
-Through completing this project, I developed a stronger understanding of:
+Through completing this project, I strengthened my ability to:
 
 - Internet communication from a cybersecurity perspective
 - Common attack surfaces across modern systems
